@@ -1,0 +1,13 @@
+Name: Mona Abualya
+Email: mona.abualya@wsu.edu
+Files:
+    index.html
+        main landing page of website. includes a welcoming header and a navigation bar that links to the "About Us" and "Contact Us" pages. main section highlights services with embedded video. footer providers contact info.
+    about.html
+        introduces the team and services offered. includes header, a navigation bar for easy access to other pages, and a main section with details about the team. Footer provides contact information.
+    contact.html
+        allow users to get in touch through a form of submitting their name, email, and message. Includes a header, navigation bar, and main section with the form of instructions. Footer provides an email link for direct contact.
+    wsu-vancouve.png
+        image that was used in index.html file
+    README
+        this file containing name, email and information about archived files
